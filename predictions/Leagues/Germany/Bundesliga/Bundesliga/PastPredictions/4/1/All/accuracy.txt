@@ -1,0 +1,17 @@
+For Season 1
+For Season 13
+Good: 154/308 Percentage: 50.00%
+Predicted 0 good: 67/144 Percentage: 46.53%
+Predicted 1 good: 87/164 Percentage: 53.05%
+For Season 14
+Good: 170/308 Percentage: 55.19%
+Predicted 0 good: 78/147 Percentage: 53.06%
+Predicted 1 good: 92/161 Percentage: 57.14%
+For Season 15
+Good: 33/54 Percentage: 61.11%
+Predicted 0 good: 17/30 Percentage: 56.67%
+Predicted 1 good: 16/24 Percentage: 66.67%
+For Total
+Good: 357/670 Percentage: 53.28%
+Predicted 0 good: 162/321 Percentage: 50.47%
+Predicted 1 good: 195/349 Percentage: 55.87%

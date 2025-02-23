@@ -1,0 +1,18 @@
+FSV Mainz 05 vs Borussia Mönchengladbach
+0 82.03% ---------> 1 4.76% ---------> 2 13.21%  ---------> predict 0
+VfB Stuttgart vs Holstein Kiel
+0 12.65% ---------> 1 87.30% ---------> 2 0.05%  ---------> predict 1
+FC Augsburg vs Borussia Dortmund
+0 0.33% ---------> 1 0.65% ---------> 2 99.03%  ---------> predict 2
+FC St. Pauli vs VfL Wolfsburg
+0 23.19% ---------> 1 18.06% ---------> 2 58.75%  ---------> predict 2
+RB Leipzig vs SC Freiburg
+0 1.52% ---------> 1 98.46% ---------> 2 0.02%  ---------> predict 1
+Werder Bremen vs Bayer Leverkusen
+0 0.35% ---------> 1 0.53% ---------> 2 99.12%  ---------> predict 2
+VfL Bochum vs Bayern München
+0 0.74% ---------> 1 1.55% ---------> 2 97.72%  ---------> predict 2
+Union Berlin vs Eintracht Frankfurt
+0 6.30% ---------> 1 24.88% ---------> 2 68.82%  ---------> predict 2
+1. FC Heidenheim vs 1899 Hoffenheim
+0 13.77% ---------> 1 30.92% ---------> 2 55.30%  ---------> predict 2
